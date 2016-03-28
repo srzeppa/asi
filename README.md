@@ -1,7 +1,7 @@
 ### Nazwa Zespołu – Sławomir Rzeppa
 
 1. Zaliczenie:
- - [x] [srshop](zaliczenie)
+ - [x] [srshop](srshop)
  - [x] [link do wdrożonej na zewnętrznym serwerze aplikacji](http://srshop.herokuapp.com/)
 1. Egzamin:
  - [ ] [nazwa aplikacji](egzamin)
