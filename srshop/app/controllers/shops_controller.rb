@@ -5,8 +5,8 @@ class ShopsController < ApplicationController
   # GET /shops
   # GET /shops.json
   def index
-    @shops = Shop.all
-    #@shops = List.paginate(:page => params[:page], :per_page => 5)
+    #@shops = Shop.all
+    @shops = Shop.paginate(:page => params[:page], :per_page => 5)
   end
 
   # GET /shops/1
